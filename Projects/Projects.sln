@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Text", "Text", "{ECE78296-0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Checker", "Palindrome Checker\Palindrome Checker.csproj", "{D0037FF8-AE26-4B3B-8DD4-47528F4750FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word Counter", "Word Counter\Word Counter.csproj", "{E8860407-7D5E-4D96-9A00-FCC2C25AABA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{D0037FF8-AE26-4B3B-8DD4-47528F4750FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0037FF8-AE26-4B3B-8DD4-47528F4750FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0037FF8-AE26-4B3B-8DD4-47528F4750FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8860407-7D5E-4D96-9A00-FCC2C25AABA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8860407-7D5E-4D96-9A00-FCC2C25AABA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8860407-7D5E-4D96-9A00-FCC2C25AABA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8860407-7D5E-4D96-9A00-FCC2C25AABA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{7F258F9D-0AE8-4C9A-A7C0-94348F4CCE40} = {ECE78296-0FD6-4054-92E2-36DE8D2481D6}
 		{CC023D35-81E6-4B56-A86F-1C5B87731DBB} = {ECE78296-0FD6-4054-92E2-36DE8D2481D6}
 		{D0037FF8-AE26-4B3B-8DD4-47528F4750FF} = {ECE78296-0FD6-4054-92E2-36DE8D2481D6}
+		{E8860407-7D5E-4D96-9A00-FCC2C25AABA4} = {ECE78296-0FD6-4054-92E2-36DE8D2481D6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D9016429-70F2-4872-8A11-ECCD9F9C19DC}
