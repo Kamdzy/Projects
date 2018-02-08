@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pig Latin", "Pig Latin\Pig 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Vowels", "Count Vowels\Count Vowels.csproj", "{CC023D35-81E6-4B56-A86F-1C5B87731DBB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Text", "Text", "{ECE78296-0FD6-4054-92E2-36DE8D2481D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{279B4CDA-DEED-4ADF-8BD4-A988673A048E} = {ECE78296-0FD6-4054-92E2-36DE8D2481D6}
+		{385DE18E-DED5-4AD6-90BE-43BB401644D1} = {ECE78296-0FD6-4054-92E2-36DE8D2481D6}
+		{7F258F9D-0AE8-4C9A-A7C0-94348F4CCE40} = {ECE78296-0FD6-4054-92E2-36DE8D2481D6}
+		{CC023D35-81E6-4B56-A86F-1C5B87731DBB} = {ECE78296-0FD6-4054-92E2-36DE8D2481D6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D9016429-70F2-4872-8A11-ECCD9F9C19DC}
